@@ -3202,5 +3202,77 @@
       "pt": "",
       "en": ""
     }
+  },
+  {
+    "personalityId": "rosa-luxemburgo",
+    "title": {
+      "pt": "Reforma ou Revolução?",
+      "en": "Reform or Revolution"
+    },
+    "year": 1899,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "margaret-thatcher",
+    "title": {
+      "pt": "The Downing Street Years",
+      "en": "The Downing Street Years"
+    },
+    "year": 1993,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "golda-meir",
+    "title": {
+      "pt": "A Minha Vida",
+      "en": "My Life"
+    },
+    "year": 1975,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "angela-merkel",
+    "title": {
+      "pt": "Liberdade",
+      "en": "Freedom"
+    },
+    "year": 2024,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "giorgia-meloni",
+    "title": {
+      "pt": "Io sono Giorgia",
+      "en": "I Am Giorgia"
+    },
+    "year": 2021,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "marine-le-pen",
+    "title": {
+      "pt": "Pour que vive la France",
+      "en": "Pour que vive la France"
+    },
+    "year": 2012,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
   }
 ]

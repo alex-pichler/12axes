@@ -9367,5 +9367,141 @@
       "mundo": "B",
       "tecnologia": "D"
     }
+  },
+  {
+    "personalityId": "rosa-luxemburgo",
+    "vector": {
+      "estrutura": 27.1,
+      "representacao": 84.0,
+      "poder": 23.0,
+      "imigracao": 15.2,
+      "diplomacia": 14.7,
+      "intervencao": 87.6,
+      "economia": 90.1,
+      "controle": 83.0,
+      "comercio": 33.6,
+      "religiao": 88.1,
+      "moral": 71.7,
+      "tecnologia": 63.0
+    }
+  },
+  {
+    "personalityId": "margaret-thatcher",
+    "vector": {
+      "estrutura": 23.6,
+      "representacao": 68.0,
+      "poder": 61.5,
+      "imigracao": 76.7,
+      "diplomacia": 67.1,
+      "intervencao": 17.4,
+      "economia": 20.8,
+      "controle": 20.6,
+      "comercio": 18.4,
+      "religiao": 24.6,
+      "moral": 24.1,
+      "tecnologia": 60.6
+    }
+  },
+  {
+    "personalityId": "golda-meir",
+    "vector": {
+      "estrutura": 18.8,
+      "representacao": 70.4,
+      "poder": 68.7,
+      "imigracao": 71.9,
+      "diplomacia": 75.5,
+      "intervencao": 26.9,
+      "economia": 78.6,
+      "controle": 80.5,
+      "comercio": 59.8,
+      "religiao": 54.4,
+      "moral": 32.5,
+      "tecnologia": 68.9
+    }
+  },
+  {
+    "personalityId": "alexandria-ocasio-cortez",
+    "vector": {
+      "estrutura": 41.4,
+      "representacao": 91.8,
+      "poder": 29.4,
+      "imigracao": 15.2,
+      "diplomacia": 20.5,
+      "intervencao": 60.1,
+      "economia": 85.8,
+      "controle": 80.5,
+      "comercio": 69.3,
+      "religiao": 60.7,
+      "moral": 86.0,
+      "tecnologia": 48.8
+    }
+  },
+  {
+    "personalityId": "angela-merkel",
+    "vector": {
+      "estrutura": 49.8,
+      "representacao": 82.3,
+      "poder": 55.6,
+      "imigracao": 46.9,
+      "diplomacia": 33.6,
+      "intervencao": 39.9,
+      "economia": 48.4,
+      "controle": 46.1,
+      "comercio": 19.9,
+      "religiao": 38.9,
+      "moral": 40.8,
+      "tecnologia": 48.8
+    }
+  },
+  {
+    "personalityId": "isabel-i-da-inglaterra",
+    "vector": {
+      "estrutura": 14.0,
+      "representacao": 11.4,
+      "poder": 83.8,
+      "imigracao": 63.4,
+      "diplomacia": 63.6,
+      "intervencao": 23.3,
+      "economia": 39.9,
+      "controle": 74.3,
+      "comercio": 72.9,
+      "religiao": 17.6,
+      "moral": 14.9,
+      "tecnologia": 48.8
+    }
+  },
+  {
+    "personalityId": "giorgia-meloni",
+    "vector": {
+      "estrutura": 33.1,
+      "representacao": 74.0,
+      "poder": 52.0,
+      "imigracao": 76.5,
+      "diplomacia": 52.9,
+      "intervencao": 25.7,
+      "economia": 52.0,
+      "controle": 40.2,
+      "comercio": 55.6,
+      "religiao": 22.4,
+      "moral": 23.2,
+      "tecnologia": 52.2
+    }
+  },
+  {
+    "personalityId": "marine-le-pen",
+    "vector": {
+      "estrutura": 15.2,
+      "representacao": 79.9,
+      "poder": 58.0,
+      "imigracao": 86.4,
+      "diplomacia": 61.7,
+      "intervencao": 41.9,
+      "economia": 61.3,
+      "controle": 69.5,
+      "comercio": 83.6,
+      "religiao": 61.0,
+      "moral": 34.5,
+      "tecnologia": 47.6
+    }
   }
 ]

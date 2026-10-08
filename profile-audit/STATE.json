@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-10-08T16:39:51Z",
+  "lastUpdated": "2026-10-08T18:21:15Z",
   "personality": {
-    "totalProfiles": 539,
+    "totalProfiles": 547,
     "pending": [],
     "done": [
       "lenin",
@@ -543,10 +543,18 @@
       "vitor-emanuel-iii",
       "cristiano-iv",
       "jorge-i-da-gra-bretanha",
-      "eleftherios-venizelos"
+      "eleftherios-venizelos",
+      "rosa-luxemburgo",
+      "margaret-thatcher",
+      "golda-meir",
+      "alexandria-ocasio-cortez",
+      "angela-merkel",
+      "isabel-i-da-inglaterra",
+      "giorgia-meloni",
+      "marine-le-pen"
     ],
-    "lastUpdated": "2026-10-05T19:27:12Z",
-    "audited": 509,
+    "lastUpdated": "2026-10-08T18:21:15Z",
+    "audited": 517,
     "unanswered": 0
   },
   "ideology": {
@@ -1091,5 +1099,5 @@
       "reino-da-grecia"
     ]
   },
-  "totalProfiles": 1054
+  "totalProfiles": 1062
 }

@@ -7643,5 +7643,120 @@
     "religions": [
       "orthodox"
     ]
+  },
+  {
+    "id": "rosa-luxemburgo",
+    "name": "Rosa Luxemburgo",
+    "role": "Teórica marxista e revolucionária",
+    "category": "teorico",
+    "lifespan": "1871–1919",
+    "description": "Teórica marxista polonesa-alemã, cofundou a Liga Espartaquista e o Partido Comunista Alemão. Defendeu a greve de massas e a revolução internacionalista, opôs-se à Primeira Guerra e criticou o centralismo bolchevique.",
+    "imagePath": "/personalities/portraits/rosa-luxemburgo.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rosa_Luxemburg_(cropped).jpg",
+    "imageNote": "Retrato de Rosa Luxemburgo via Wikimedia Commons.",
+    "religions": []
+  },
+  {
+    "id": "margaret-thatcher",
+    "name": "Margaret Thatcher",
+    "role": "Primeira-ministra do Reino Unido",
+    "category": "politico",
+    "lifespan": "1925–2013",
+    "description": "Primeira-ministra britânica de 1979 a 1990, privatizou estatais, enfrentou a greve dos mineiros, venceu a Guerra das Malvinas e liderou com Reagan a ofensiva liberal e anticomunista do fim da Guerra Fria.",
+    "imagePath": "/personalities/portraits/margaret-thatcher.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait_(cropped).jpg",
+    "imageNote": "Retrato oficial de Margaret Thatcher via Wikimedia Commons.",
+    "religions": [
+      "protestant"
+    ]
+  },
+  {
+    "id": "golda-meir",
+    "name": "Golda Meir",
+    "role": "Primeira-ministra de Israel",
+    "category": "politico",
+    "lifespan": "1898–1978",
+    "description": "Dirigente do sionismo trabalhista e do Mapai, foi ministra do Trabalho e das Relações Exteriores e primeira-ministra de Israel de 1969 a 1974, conduzindo o país na Guerra do Yom Kippur.",
+    "imagePath": "/personalities/portraits/golda-meir.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Golda_Meir_(1964)_cropped.jpg",
+    "imageNote": "Fotografia de Golda Meir em 1964 via Wikimedia Commons.",
+    "religions": [
+      "judaism",
+      "only"
+    ]
+  },
+  {
+    "id": "alexandria-ocasio-cortez",
+    "name": "Alexandria Ocasio-Cortez",
+    "role": "Deputada federal dos EUA",
+    "category": "politico",
+    "lifespan": "1989–",
+    "description": "Deputada democrata por Nova York desde 2019 e membro dos Socialistas Democráticos da América, defende o Green New Deal, um sistema público de saúde universal e a abolição do ICE, a agência de imigração.",
+    "imagePath": "/personalities/portraits/alexandria-ocasio-cortez.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandria_Ocasio-Cortez_Official_Portrait.jpg",
+    "imageNote": "Retrato oficial de Alexandria Ocasio-Cortez no Congresso dos EUA via Wikimedia Commons.",
+    "religions": []
+  },
+  {
+    "id": "angela-merkel",
+    "name": "Angela Merkel",
+    "role": "Ex-chanceler da Alemanha",
+    "category": "politico",
+    "lifespan": "1954–",
+    "description": "Chanceler democrata-cristã da Alemanha de 2005 a 2021, geriu a crise do euro com austeridade, abriu o país a refugiados em 2015, acelerou a saída da energia nuclear e mediou os acordos de Minsk com a Rússia.",
+    "imagePath": "/personalities/portraits/angela-merkel.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Angela_Merkel_2019_cropped.jpg",
+    "imageNote": "Fotografia de Angela Merkel em 2019 via Wikimedia Commons.",
+    "religions": [
+      "protestant"
+    ]
+  },
+  {
+    "id": "isabel-i-da-inglaterra",
+    "name": "Isabel I da Inglaterra",
+    "role": "Rainha da Inglaterra e da Irlanda",
+    "category": "politico",
+    "lifespan": "1533–1603",
+    "description": "Última monarca Tudor, restabeleceu a Igreja Anglicana com o Acordo Religioso Elisabetano, reprimiu conspirações católicas, derrotou a Armada Espanhola e apoiou corsários e as primeiras companhias de comércio ultramarino.",
+    "imagePath": "/personalities/portraits/isabel-i-da-inglaterra.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Darnley_stage_3.jpg",
+    "imageNote": "Retrato Darnley de Isabel I da Inglaterra (c. 1575) via Wikimedia Commons.",
+    "religions": [
+      "protestant"
+    ]
+  },
+  {
+    "id": "giorgia-meloni",
+    "name": "Giorgia Meloni",
+    "role": "Primeira-ministra da Itália",
+    "category": "politico",
+    "lifespan": "1977–",
+    "description": "Líder dos Irmãos da Itália e primeira-ministra desde 2022, une nacional-conservadorismo, defesa da família tradicional e linha dura migratória com atlantismo pró-Ucrânia e uma reforma eleitoral que fortalece o governo.",
+    "imagePath": "/personalities/portraits/giorgia-meloni.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
+    "imageNote": "Retrato oficial de Giorgia Meloni em 2024 via Wikimedia Commons.",
+    "religions": [
+      "catholic"
+    ]
+  },
+  {
+    "id": "marine-le-pen",
+    "name": "Marine Le Pen",
+    "role": "Líder do Reagrupamento Nacional",
+    "category": "politico",
+    "lifespan": "1968–",
+    "description": "Líder da Frente Nacional, renomeada Reagrupamento Nacional, e três vezes candidata à presidência da França, defende prioridade nacional, imigração restrita, protecionismo, laicidade estrita e Estado social para franceses.",
+    "imagePath": "/personalities/portraits/marine-le-pen.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(3x4_cropped).jpg",
+    "imageNote": "Fotografia de Marine Le Pen em 2025 via Wikimedia Commons.",
+    "religions": []
   }
 ]

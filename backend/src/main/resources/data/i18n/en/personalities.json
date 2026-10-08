@@ -3682,5 +3682,61 @@
     "role": "Prime Minister of Greece",
     "lifespan": "1864–1936",
     "description": "Prominent Greek liberal statesman who spearheaded territorial doubling through the Balkan Wars, pursued the Megali Idea, and allied Greece with the Entente in World War I."
+  },
+  {
+    "id": "rosa-luxemburgo",
+    "name": "Rosa Luxemburg",
+    "role": "Marxist theorist and revolutionary",
+    "lifespan": "1871–1919",
+    "description": "Polish-German Marxist theorist who co-founded the Spartacus League and the Communist Party of Germany, championed the mass strike and internationalist revolution, opposed World War I and criticized Bolshevik centralism."
+  },
+  {
+    "id": "margaret-thatcher",
+    "name": "Margaret Thatcher",
+    "role": "Prime Minister of the United Kingdom",
+    "lifespan": "1925–2013",
+    "description": "British Prime Minister from 1979 to 1990 who privatized state industries, defeated the miners' strike, won the Falklands War and, with Reagan, led the free-market, anti-communist offensive of the late Cold War."
+  },
+  {
+    "id": "golda-meir",
+    "name": "Golda Meir",
+    "role": "Prime Minister of Israel",
+    "lifespan": "1898–1978",
+    "description": "Labor Zionist leader of Mapai who served as Israel's labor and foreign minister and as prime minister from 1969 to 1974, leading the country through the Yom Kippur War."
+  },
+  {
+    "id": "alexandria-ocasio-cortez",
+    "name": "Alexandria Ocasio-Cortez",
+    "role": "U.S. Representative",
+    "lifespan": "1989–",
+    "description": "Democratic congresswoman from New York since 2019 and member of the Democratic Socialists of America, she champions the Green New Deal, Medicare for All and abolishing ICE, the federal immigration enforcement agency."
+  },
+  {
+    "id": "angela-merkel",
+    "name": "Angela Merkel",
+    "role": "Former Chancellor of Germany",
+    "lifespan": "1954–",
+    "description": "Christian Democratic Chancellor of Germany from 2005 to 2021 who managed the euro crisis with austerity, opened the country to refugees in 2015, accelerated the nuclear phase-out and brokered the Minsk agreements with Russia."
+  },
+  {
+    "id": "isabel-i-da-inglaterra",
+    "name": "Elizabeth I of England",
+    "role": "Queen of England and Ireland",
+    "lifespan": "1533–1603",
+    "description": "Last Tudor monarch, she restored the Church of England through the Elizabethan Religious Settlement, suppressed Catholic plots, defeated the Spanish Armada and backed privateers and the first overseas trading companies."
+  },
+  {
+    "id": "giorgia-meloni",
+    "name": "Giorgia Meloni",
+    "role": "Prime Minister of Italy",
+    "lifespan": "1977–",
+    "description": "Leader of Brothers of Italy and Prime Minister since 2022, she pairs national conservatism, traditional family values and a hardline migration policy with pro-Ukraine Atlanticism and an electoral reform that strengthens the executive."
+  },
+  {
+    "id": "marine-le-pen",
+    "name": "Marine Le Pen",
+    "role": "Leader of the National Rally",
+    "lifespan": "1968–",
+    "description": "Leader of the National Front, renamed National Rally, and three-time French presidential candidate, she advocates national preference, restricted immigration, economic protectionism, strict secularism and a welfare state for French citizens."
   }
 ]
